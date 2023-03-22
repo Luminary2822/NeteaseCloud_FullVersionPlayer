@@ -1,5 +1,4 @@
 # webmusic
-> 网页版本的播放器
 
 ## 感谢
 https://github.com/sl1673495/vue-netease-music
@@ -15,7 +14,24 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 [Element-ui](https://element.eleme.cn/#/zh-CN/component/quickstart)(轮播，分页，tab切换)
 
+## 运行命令
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
 
 ## 分支说明
 
-1. layout : 只完成了布局
+1. layout：简易版本
+2. master：完善版本

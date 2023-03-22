@@ -320,6 +320,9 @@ ol {
           img {
             width: 100%;
             border-radius: 5px;
+            // Luminary add
+            height: 150px;
+            // end
           }
           .num-wrap {
             position: absolute;
@@ -1142,6 +1145,10 @@ ol {
     // 图标
     .icon-wrapper {
       margin-right: 80px;
+      // Luminary's add:make it 垂直居中
+      display: flex;
+      align-items: center;
+      // end
       .iconfont {
         margin-right: 10px;
         font-size: 12px;

@@ -9,7 +9,7 @@
         <div class="author-wrap">
           <img class="avatar" :src="avatarUrl" alt="" />
           <span class="name">{{ nickname }}</span>
-          <span class="time">{{ createTime }} 创建</span>
+          <span class="time">{{ createTime}} 创建</span>
         </div>
         <div class="tag-wrap">
           <span class="title">标签:</span>
@@ -220,7 +220,7 @@ export default {
       songUrl({
         id: id
       }).then(res => {
-        // window.console.log(res)
+        window.console.log(res)
         // this.songUrl = res.data[0].url
         this.$parent.url = res.data[0].url;
       });
