@@ -1,11 +1,5 @@
-# webmusic
-
-## 感谢
-https://github.com/sl1673495/vue-netease-music
-
-## 后端接口
-
-https://binaryify.github.io/NeteaseCloudMusicApi
+# NeteaseCloud_FullVersionPlayer
+Here is the complete NetEase cloud music player project, which is more in line with the specifications of front-end development engineers in terms of writing
 
 ## 技术栈
 [vue-cli3](https://cli.vuejs.org/zh/) 创建的项目
@@ -31,7 +25,3 @@ npm run serve
 npm run build
 ```
 
-## 分支说明
-
-1. layout：简易版本
-2. master：完善版本
