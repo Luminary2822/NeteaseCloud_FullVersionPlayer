@@ -1,5 +1,5 @@
 # NeteaseCloud_FullVersionPlayer
-  这里是完整版的PC端仿网易云风格播放器，代码写法较为规范，相比较NeteaseCloud_EasyPlayer版本区别主要在于数据获取方式，完整版的接口单独列出更加规范，两个版本界面和运行效果都相同。
+  Here is the full version of the Netease Cloud-style player on the PC side. The code writing method is more standardized. Compared with the NeteaseCloud_EasyPlayer version, the difference is mainly in the data acquisition method. The interface of the full version is listed separately and is more standardized. The interface and operating effect of the two versions are the same.
 
 ## 技术栈
 [vue-cli3](https://cli.vuejs.org/zh/) 创建的项目
